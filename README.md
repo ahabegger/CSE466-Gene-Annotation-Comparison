@@ -15,8 +15,7 @@ As we are making good progresses in sequencing more RNAs (i.e., more evidence of
 chromosomes (e.g., sequencing longer DNA fragments), and developing better genome annotation algorithms, the gene
 annotations for different organisms are getting more and more accurate as time passes by. The major goal of this project
 is to compare the gene annotations between two releases for your desired species. For example, we want to know gene
-annotation differences for mouse genome between ENSEMBL release 103 (http://ftp.ensembl.org/pub/release-
-103/gtf/mus_musculus/Mus_musculus.GRCm39.103.chr.gtf.gz , released in Dec-25-2020) and release 104
+annotation differences for mouse genome between ENSEMBL release 103 (http://ftp.ensembl.org/pub/release-103/gtf/mus_musculus/Mus_musculus.GRCm39.103.chr.gtf.gz , released in Dec-25-2020) and release 104
 (http://ftp.ensembl.org/pub/release-104/gtf/mus_musculus/Mus_musculus.GRCm39.104.chr.gtf.gz , released in Mar-16-
 2021). Of course, you can choose other species you like. Through this project, you need to answer the following
 questions. How many different categories of genes (e.g., protein-coding, miRNA and other non-coding genes) and their
