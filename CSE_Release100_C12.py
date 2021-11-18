@@ -1,4 +1,3 @@
-
 import pprint
 from BCBio.GFF import GFFExaminer
 from BCBio import GFF
