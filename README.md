@@ -31,3 +31,14 @@ end, gene category), as well as the relevant transcript annotation information (
 many exons and introns), from both releases for the selected gene. Your interface also needs to show summary
 information (e.g., total number of annotated genes and transcripts, as well as different gene categories and relevant gene
 and transcript numbers) for both releases.
+
+**Creation Instructions**
+
+1. Download the four SQL files provided: GeneCategories.sql,  ReleaseInfo.sql, Transcripts100.sql, Transcripts104.sql   
+2. Execute the four SQL files in a database 
+3. Download index.html, GeneCompare.py and ReleaseCompare.py from http://bio466-f15.csi.miamioh.edu/~habeggaj/index.html or http://bio466-f15.csi.miamioh.edu/~hofmanln/index.html 
+4. Change GeneCompare.py and ReleaseCompare.py to connect to the database that you set up in step two
+5. Put the three files downloaded in step three in a live server
+6. Run the following commands
+7. Chmod a+rwx GeneCompare.py
+8. Chmod a+rwx ReleaseCompare.py
