@@ -3,6 +3,7 @@
 _Alex Habegger and Lily Hofman_
 
 **Objectives:**
+
 The final project is designed to apply what you have learned in this course to solve real bioinformatics problems. In this
 project, you will build a bioinformatics software system, which includes:
 (1) python classes for data processing and information extraction, 
@@ -10,6 +11,7 @@ project, you will build a bioinformatics software system, which includes:
 (3) web-based interfaces that can communicate with the database and allow users to query data on demand.
 
 **Assignment:**
+
 (1) Gene Annotation Comparison.
 As we are making good progresses in sequencing more RNAs (i.e., more evidence of expressed genes), gap-filling
 chromosomes (e.g., sequencing longer DNA fragments), and developing better genome annotation algorithms, the gene
@@ -32,7 +34,7 @@ many exons and introns), from both releases for the selected gene. Your interfac
 information (e.g., total number of annotated genes and transcripts, as well as different gene categories and relevant gene
 and transcript numbers) for both releases.
 
-**Creation Instructions**
+**Creation Instructions:**
 
 1. Download the four SQL files provided: GeneCategories.sql,  ReleaseInfo.sql, Transcripts100.sql, Transcripts104.sql   
 2. Execute the four SQL files in a database 
