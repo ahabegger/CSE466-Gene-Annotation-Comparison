@@ -42,11 +42,6 @@ To run this project, you will need:
 
 With the project set up, you can now use the web interface to search for gene names and retrieve gene annotation information from both releases for the selected gene. The interface also provides summary information (e.g., total number of annotated genes and transcripts, different gene categories, and relevant gene and transcript numbers) for both releases.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 * The Ensembl project for providing gene annotation data.
