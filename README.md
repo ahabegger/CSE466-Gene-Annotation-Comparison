@@ -45,3 +45,6 @@ With the project set up, you can now use the web interface to search for gene na
 ## Acknowledgments
 
 * The Ensembl project for providing gene annotation data.
+
+## Disclaimer
+This project is part of an academic exercise and is not intended for commercial use.
